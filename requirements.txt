@@ -1,1 +1,4 @@
+dvc
+dvc-gdrive
+scikit_learn==1.2.2
 
